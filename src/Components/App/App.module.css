@@ -1,0 +1,21 @@
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px;
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #1db954;
+}
+
+.title span {
+  color: #333;
+}
+
+.content {
+  display: flex;
+  gap: 24px;
+}
